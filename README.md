@@ -6,7 +6,7 @@ A practical, battle-tested framework for building software projects with AI-assi
 
 This guide was extracted from building [safdarayub.dev](https://safdarayub-dev.vercel.app) — a portfolio website that went from zero to deployed using this exact process. Every document, template, and example in this guide comes from that real build.
 
-The approach combines military operations planning (23 years in Pakistan Air Force) with modern AI-assisted development. The core insight: **the time to discover problems is before execution, not during it.**
+The core insight is borrowed from engineering and aviation: **the time to discover problems is before execution, not during it.** Pilots don't skip pre-flight checklists. Architects don't skip blueprints. Developers shouldn't skip specs.
 
 ## Who This Is For
 
