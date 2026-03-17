@@ -26,6 +26,15 @@ Phase 4: REVIEW                 ← Verify implementation matches specifications
 
 ## Files in This Guide
 
+### Beginner Guides (Start Here)
+
+| File | Purpose |
+|------|---------|
+| [SPEC_DRIVEN_DEVELOPMENT_GUIDE.md](SPEC_DRIVEN_DEVELOPMENT_GUIDE.md) | Complete beginner's guide — what spec-driven development is, the 4-phase workflow, rules, common mistakes, ADRs, and quick reference card |
+| [CLAUDE_MD_GUIDE.md](CLAUDE_MD_GUIDE.md) | Complete guide to CLAUDE.md — when to create it, when to update it, exact prompts to use, and comparison with Cursor/Copilot/Windsurf configs |
+
+### Workflow & Templates
+
 | File | Purpose |
 |------|---------|
 | [workflow.md](workflow.md) | The complete 5-phase process with checklists |
@@ -35,14 +44,21 @@ Phase 4: REVIEW                 ← Verify implementation matches specifications
 | [03-wireframes.md](03-wireframes.md) | Template: where things go (layouts, responsive design) |
 | [04-task-breakdown.md](04-task-breakdown.md) | Template: build order (milestones, numbered tasks) |
 | [05-claude-md.md](05-claude-md.md) | Template: CLAUDE.md project memory file |
-| [examples/safdarayub-dev/](examples/safdarayub-dev/) | Real example from the portfolio build |
+
+### Real-World Example
+
+| File | Purpose |
+|------|---------|
+| [examples/safdarayub-dev/](examples/safdarayub-dev/) | Real example from the safdarayub.dev portfolio build |
 
 ## Quick Start
 
-1. Read [workflow.md](workflow.md) to understand the full process
-2. Start with [00-discovery-interview.md](00-discovery-interview.md) for your next project
-3. Use the templates (01-05) to create your spec documents
-4. Reference the [examples/](examples/safdarayub-dev/) for a real-world implementation
+1. Read [SPEC_DRIVEN_DEVELOPMENT_GUIDE.md](SPEC_DRIVEN_DEVELOPMENT_GUIDE.md) to understand the philosophy and process
+2. Read [CLAUDE_MD_GUIDE.md](CLAUDE_MD_GUIDE.md) to understand the AI-assisted workflow
+3. Read [workflow.md](workflow.md) for the step-by-step 5-phase checklist
+4. Start with [00-discovery-interview.md](00-discovery-interview.md) for your next project
+5. Use the templates (01-05) to create your spec documents
+6. Reference the [examples/](examples/safdarayub-dev/) for a real-world implementation
 
 ## Key Principles
 
